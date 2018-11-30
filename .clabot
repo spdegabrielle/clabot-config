@@ -1,5 +1,5 @@
 {
-  "contributors": [],
+  "contributors": ["spdegabrielle"],
   "message": "Please sign the CLA",
   "label": "cla-signed",
   "recheckComment": "recheck-cla"
